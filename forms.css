@@ -1,0 +1,6 @@
+body{background-color: lightgreen;
+	border: solid orange;
+}
+label{border: solid lightgreen;font-size: 20px}
+input{border: solid orange;border-width: 5px;border-radius: 10px}
+button{background-color: orange}

@@ -1,0 +1,14 @@
+table {background-color: white;
+	   font-size: 10px;
+	   border: 2px dotted black ;
+	   width: 50%;
+	   height:85vh;
+	}
+td{background-color: yellow;
+	font-size: 20px;
+
+}	
+th{background-color: yellow;
+	font-size:30px;
+
+}

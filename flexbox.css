@@ -1,0 +1,13 @@
+.container{background-color: lightgreen;
+	       display: flex;
+	       flex-direction:row;
+	       flex-wrap: wrap;
+
+}
+.container div{height: 200px;
+	           width: 200px;
+	           background-color: purple;
+	           margin: 6px; 
+
+
+}

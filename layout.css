@@ -1,0 +1,23 @@
+.A{
+   height: 50px;
+   background-color:lightblue;
+   margin: 20px;
+   
+}
+.B{height: 200px;
+   background-color: lightblue;
+   margin: 20px;
+   
+ }
+#folder
+  {display: flex;
+   justify-content: space-between;
+}
+.box{height: 250px;
+   width: 350px;
+   background-color: lightblue;
+   margin: 20px;
+}
+.F{height: 100px;
+   background-color: lightblue;
+   margin: 20px;}
